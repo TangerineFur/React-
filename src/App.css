@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.abc{
+	color: #61DAFB;
+}
 .App-link {
   color: #61dafb;
 }
